@@ -1,7 +1,10 @@
 <img width="750" height="450" alt="minimalist-logo" src="https://github.com/user-attachments/assets/1da1ac6a-6b0e-409c-8686-6d0ffc483b05" />
 
 # Red-Sushi
-Scipts Simulats "Attacks" for detection and Happy Threat Hunting
+
+Scripts simulatates Attacks for detection by matching MITRE ATT$CK
+
+Happy Threat Hunting
 
 ---
 
